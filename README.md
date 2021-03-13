@@ -17,6 +17,7 @@ npm run dev
 ```
 
 ## instalar bouncer
+doc: https://github.com/JosephSilber/bouncer
 ```
 composer require silber/bouncer:v1.0.0-rc.8
 ```
